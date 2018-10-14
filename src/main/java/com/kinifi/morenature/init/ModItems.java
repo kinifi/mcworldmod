@@ -11,7 +11,11 @@ public class ModItems {
 
 	public static final List<Item> ITEMS = new ArrayList<Item>();
 	
-	//ruby item
+	//ore types
 	public static final Item Ruby = new ItemBase("Ruby");
+	public static final Item RubyDust = new ItemBase("RubyDust");
+	
+	//currency
+	public static final Item CoinOne = new ItemBase("CoinOne");
 	
 }

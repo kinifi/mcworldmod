@@ -1,1 +1,7 @@
+//ores
+//note the item.NAME is the actual object name we created in ModItems.java
 item.Ruby.name=Ruby
+item.RubyDust.name=Ruby Dust
+
+//currency
+item.CoinOne.name=Coin One
